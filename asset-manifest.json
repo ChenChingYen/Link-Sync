@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ChenChingYen/Link-Sync/static/css/main.bb1b9c0e.css",
+    "main.js": "/ChenChingYen/Link-Sync/static/js/main.10a76c68.js",
+    "static/media/main-logo.svg": "/ChenChingYen/Link-Sync/static/media/main-logo.9d766a8a7a97da1a7b46116551debc40.svg",
+    "index.html": "/ChenChingYen/Link-Sync/index.html",
+    "main.bb1b9c0e.css.map": "/ChenChingYen/Link-Sync/static/css/main.bb1b9c0e.css.map",
+    "main.10a76c68.js.map": "/ChenChingYen/Link-Sync/static/js/main.10a76c68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb1b9c0e.css",
+    "static/js/main.10a76c68.js"
+  ]
+}
