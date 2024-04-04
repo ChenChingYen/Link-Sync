@@ -1,0 +1,41 @@
+body{
+    background-color: #000000;
+    color: #F8F8FF;
+    text-align: center;
+}
+
+.App{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.CenterWrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+}
+
+#Logo{
+    height: 48px;
+}
+
+.Font-48{
+    font-size: 48px;
+    margin-bottom: 8px;
+    font: bolder;
+}
+
+.Font-16{
+    font-size: 16px;
+    font: 400;
+}
+
+.Opacity-64{
+    opacity: 0.64;
+}
+
+.Opacity-32{
+    opacity: 0.32;
+}
